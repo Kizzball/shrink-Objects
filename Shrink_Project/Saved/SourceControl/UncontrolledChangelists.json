@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/2406616/Documents/Unreal Projects/Shrink_Project/Content/BP_ShrinkBlock.uasset",
+				"C:/Users/2406616/Documents/Unreal Projects/Shrink_Project/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/2406616/Documents/Unreal Projects/Shrink_Project/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/30/ZITSVNOTHD74B96R84DL9J.uasset"
+			]
+		}
+	]
+}
